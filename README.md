@@ -2,6 +2,8 @@
 
 With all of the conference realignment occuring in the NCAA over the past few years (most of this action has since died down), I wondered about the geographic reasoning behind the transferring schools' decisions. Most of the realignment emerged out of concerns for money, but what if we took a purely geostatistical look at the issue? For example, it seemed strange that Rutgers, a team from way out East, moved to the Big Ten, when that conference traditionally contained teams from the Midwest.
 
+## Check out the Shiny application [here](https://jake-mason.shinyapps.io/colleges_distance_push/)!
+
 ## On the map:
 
 The blue rectangle represents the average location (i.e. the centroid) of a given conference. The exact location is usually meaningless, because most conferences' centroids end up in a lake or a forest somewhere, but this gives us an general idea, geographically, of where a conference is.
