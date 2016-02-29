@@ -9,9 +9,6 @@ library(scales)
 library(lattice)
 library(dplyr)
 
-# clear workspace
-rm(list = ls())
-
 # load zipcode data from zipcode package
 data(zipcode)
 
