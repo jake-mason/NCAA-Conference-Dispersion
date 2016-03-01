@@ -13,7 +13,7 @@ library(dplyr)
 data(zipcode)
 
 # read in file with schools by conferences -- get data from https://www.dropbox.com/s/1j8z3yvo30fhqlt/colleges_fixed.csv?dl=0
-colleges <- read.csv("/Users/user/Documents/R/projects/colleges_fixed.csv", header = TRUE,
+colleges <- read.csv("colleges_fixed.csv", header = TRUE,
                      stringsAsFactors = FALSE)
 
 # add leading zero to ZIP codes
