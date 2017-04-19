@@ -6,7 +6,7 @@ With all of the conference realignment occurring in the NCAA over the past few y
 
 ## On the map:
 
-The blue rectangle represents the average location (i.e. the centroid) of a given conference. The exact location is usually meaningless, because most conferences' centroids end up in a lake or a forest somewhere, but this gives us an general idea, geographically, of where a conference is.
+The blue rectangle represents the average location (i.e. the centroid) of a given conference. The exact location is usually meaningless, because most conferences' centroids end up in a lake or a forest somewhere, but this gives us a general idea, geographically, of where a conference is.
 
 The green circles represent individual universities.
 
